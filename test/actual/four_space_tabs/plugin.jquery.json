@@ -1,0 +1,10 @@
+{
+    "name": "a-fake-package",
+    "description": "Some description",
+    "version": "0.0.0",
+    "keywords": [
+        "one",
+        "two"
+    ],
+    "title": "A fake package"
+}

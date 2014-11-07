@@ -1,0 +1,12 @@
+{
+    "name": "A fake package",
+    "description": "Some description",
+    "version": "0.0.0",
+    "keywords": [
+        "one",
+        "two"
+    ],
+    "devDependencies": {
+        "some-dep": "0.0.0"
+    }
+}

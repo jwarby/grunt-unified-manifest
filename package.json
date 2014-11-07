@@ -1,0 +1,42 @@
+{
+  "name": "grunt-unified-manifest",
+  "version": "0.0.1",
+  "description": "Stop managing multiple JSON manifest files.  One manifest to rule them all.",
+  "homepage": "http://github.com/jwarby/grunt-unified-manifest",
+  "repository": "git://github.com/jwarby/grunt-unified-manifest.git",
+  "author": {
+    "name": "James Warwood",
+    "email": "james.duncan.1991@googlemail.com",
+    "url": "http://github.com/jwarby"
+  },
+  "keywords": [
+    "gruntplugin",
+    "unified",
+    "manifest",
+    "package",
+    "npm",
+    "node",
+    "bower",
+    "jquery",
+    "plugin"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "jshint-stylish": "^1.0.0",
+    "load-grunt-tasks": "^1.0.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "extend": "^2.0.0"
+  }
+}

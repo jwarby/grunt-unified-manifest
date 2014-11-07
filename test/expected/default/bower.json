@@ -1,0 +1,13 @@
+{
+  "name": "A fake package",
+  "description": "Some description",
+  "version": "0.0.0",
+  "keywords": [
+    "a",
+    "b"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}

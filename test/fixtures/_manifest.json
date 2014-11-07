@@ -1,0 +1,28 @@
+{
+  "name": "A fake package",
+  "description": "Some description",
+  "version": "0.0.0",
+  "keywords": [
+    "one",
+    "two"
+  ],
+  "_bower.json_": {
+    "ignore": [
+      "node_modules",
+      "bower_components"
+    ],
+    "keywords": [
+      "a",
+      "b"
+    ]
+  },
+  "_plugin.jquery.json_": {
+    "name": "a-fake-package",
+    "title": "A fake package"
+  },
+  "_package.json_": {
+    "devDependencies": {
+      "some-dep": "0.0.0"
+    }
+  }
+}
